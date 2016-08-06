@@ -3,6 +3,7 @@
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+--staging area is a place where u can keep your files temporarily and decide which files you want to commit together or individually. At this stage, by mistake if another file gets added then u can also remove it using reset.staging are is an intermediate of working directory and a repository.  
 
 How can you use the staging area to make sure you have one commit per logical
 change?
