@@ -8,13 +8,25 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+--one can use staging area to make sure that every change one does is reflected in the status and can comit whenever one wants to commmit any logical statement.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+--branches can be useful when:-
+i want to keep the original branch intact but want to have an experimental program .
+i want to have another set of files i want to merge but not to the main branch.
+--brances function would create a branch from the master branch which will contain all the files of master branch and history of all the previous commits that has occured.
+
 How do the diagrams help you visualize the branch structure?
+
+--diagrams are like simpler and faster way to enter to your brain. its very easy way to visualize the branches through diagrams.and if there are any branches you made and forget its id, the diagram will help u remind it in future.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+--merging did not occur in my case(ill have t0 do it again)
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+while doing merging part, the manual merging is very preferable. this way the software also is not complex and a programmer is aware that the code is diffrent in both the files as well as can come up with a better creative solution which lack otherwise in a machine software.
+if ther is a conflict in files git provides a very good feature that it converts that part of code in to 3 parts which lets the programmer only focus on removing the conflict and not spending quality time searching it through out the code.
